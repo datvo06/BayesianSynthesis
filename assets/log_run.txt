@@ -1,0 +1,310 @@
+Init: Periodic(per953587)
+Step 000 | reject | log_alpha=-15.961
+Sever path: root
+Before: [[Periodic(per953587)]]
+After : [[((Periodic(per635632) + (RBF(rbf285824) * RBF(rbf479755))) + Periodic(per153436))]]
+Step 001 | accept | log_alpha=109.253
+Sever path: root
+Before: [[Periodic(per953587)]]
+After : [[(((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))]]
+Step 002 | reject | log_alpha=-91.246
+Sever path: L
+Before: ([[((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948))]] * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+After : ([[Periodic(per804581)]] * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+Step 003 | reject | log_alpha=-294.384
+Sever path: RR
+Before: (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + [[RBF(rbf760100)]]))
+After : (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + [[(((Linear(lin852025) + Periodic(per167372)) * (RBF(rbf562978) * White(wn140053))) * RBF(rbf550759))]]))
+Step 004 | reject | log_alpha=-116.676
+Sever path: LL
+Before: (([[(RBF(rbf143247) + Periodic(per579020))]] + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+After : (([[(Linear(lin322802) + White(wn757109))]] + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+Step 005 | reject | log_alpha=-62.893
+Sever path: RR
+Before: (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + [[RBF(rbf760100)]]))
+After : (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + [[(((RBF(rbf648189) * Periodic(per611157)) + (Periodic(per683854) + Periodic(per837964))) * ((RBF(rbf470159) + White(wn825196)) + (White(wn553623) * RBF(rbf854626))))]]))
+Step 006 | reject | log_alpha=-121.919
+Sever path: LL
+Before: (([[(RBF(rbf143247) + Periodic(per579020))]] + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+After : (([[((RBF(rbf604399) * RBF(rbf906042)) * ((RBF(rbf773984) + Periodic(per381178)) + (White(wn365061) * RBF(rbf920734))))]] + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+Step 007 | reject | log_alpha=-58.886
+Sever path: RLR
+Before: (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * [[White(wn996288)]]) + RBF(rbf760100)))
+After : (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * [[(((RBF(rbf889168) + Linear(lin875222)) + (RBF(rbf329354) * Periodic(per654643))) + ((RBF(rbf212680) + Linear(lin450153)) * (Periodic(per630040) * Periodic(per807143))))]]) + RBF(rbf760100)))
+Step 008 | reject | log_alpha=-43.482
+Sever path: L
+Before: ([[((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948))]] * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+After : ([[(((RBF(rbf671392) + Periodic(per588172)) * (Periodic(per963888) * Periodic(per516209))) + ((RBF(rbf354762) * RBF(rbf529740)) * (Periodic(per392816) + RBF(rbf205380))))]] * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+Step 009 | reject | log_alpha=-96.315
+Sever path: RR
+Before: (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + [[RBF(rbf760100)]]))
+After : (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + [[(((Linear(lin170556) + Periodic(per387954)) * (Periodic(per87570) + White(wn958418))) * ((Linear(lin94327) * Periodic(per537282)) + (RBF(rbf803758) + Periodic(per691946))))]]))
+Step 010 | reject | log_alpha=-67.180
+Sever path: RR
+Before: (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + [[RBF(rbf760100)]]))
+After : (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + [[(((RBF(rbf446843) + RBF(rbf639787)) * (White(wn967524) * RBF(rbf284380))) + (RBF(rbf453008) + (Linear(lin438033) + RBF(rbf382316))))]]))
+Step 011 | reject | log_alpha=-53.667
+Sever path: LLL
+Before: ((([[RBF(rbf143247)]] + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+After : ((([[(Periodic(per449858) + ((Linear(lin617655) * Periodic(per130088)) * Periodic(per727002)))]] + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+Step 012 | reject | log_alpha=-61.045
+Sever path: RR
+Before: (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + [[RBF(rbf760100)]]))
+After : (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + [[(((RBF(rbf972230) * Linear(lin263556)) + (RBF(rbf557648) + Periodic(per15924))) + ((RBF(rbf109511) * White(wn822831)) + (Periodic(per262083) * RBF(rbf902901))))]]))
+Step 013 | reject | log_alpha=-165.757
+Sever path: RLL
+Before: (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * (([[White(wn496302)]] * White(wn996288)) + RBF(rbf760100)))
+After : (((RBF(rbf143247) + Periodic(per579020)) + RBF(rbf321948)) * (([[(RBF(rbf919207) + ((White(wn762671) + Linear(lin829612)) + (RBF(rbf102560) * RBF(rbf469154))))]] * White(wn996288)) + RBF(rbf760100)))
+Step 014 | reject | log_alpha=-163.756
+Sever path: LL
+Before: (([[(RBF(rbf143247) + Periodic(per579020))]] + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+After : (([[(RBF(rbf726226) * ((Periodic(per669337) * White(wn409438)) * (RBF(rbf757394) + Linear(lin645804))))]] + RBF(rbf321948)) * ((White(wn496302) * White(wn996288)) + RBF(rbf760100)))
+Round 1/5 | accept_rate=0.067 | best_rmse=0.2452 | grammar=GrammarParams(base_weights={'rbf': 0.39499999999999996, 'per': 0.295, 'lin': 0.13999999999999999, 'wn': 0.16999999999999998}, p_sum=0.371, p_prod=0.32899999999999996)
+Init: (((RBF(rbf612550) + RBF(rbf958180)) + (RBF(rbf307494) + RBF(rbf296689))) * Periodic(per389942))
+Step 000 | reject | log_alpha=-33.144
+Sever path: R
+Before: (((RBF(rbf612550) + RBF(rbf958180)) + (RBF(rbf307494) + RBF(rbf296689))) * [[Periodic(per389942)]])
+After : (((RBF(rbf612550) + RBF(rbf958180)) + (RBF(rbf307494) + RBF(rbf296689))) * [[((RBF(rbf374670) * (RBF(rbf695052) * Periodic(per616445))) * (Periodic(per481768) + (White(wn59167) * RBF(rbf666334))))]])
+Step 001 | reject | log_alpha=-49.849
+Sever path: LRR
+Before: (((RBF(rbf612550) + RBF(rbf958180)) + (RBF(rbf307494) + [[RBF(rbf296689)]])) * Periodic(per389942))
+After : (((RBF(rbf612550) + RBF(rbf958180)) + (RBF(rbf307494) + [[(((Periodic(per742198) * White(wn181922)) * (RBF(rbf308568) * Periodic(per43735))) * ((Periodic(per140262) + White(wn43267)) + (RBF(rbf78892) + RBF(rbf336137))))]])) * Periodic(per389942))
+Step 002 | accept | log_alpha=16.706
+Sever path: LLR
+Before: (((RBF(rbf612550) + [[RBF(rbf958180)]]) + (RBF(rbf307494) + RBF(rbf296689))) * Periodic(per389942))
+After : (((RBF(rbf612550) + [[Periodic(per295216)]]) + (RBF(rbf307494) + RBF(rbf296689))) * Periodic(per389942))
+Step 003 | reject | log_alpha=-70.595
+Sever path: LRL
+Before: (((RBF(rbf612550) + Periodic(per295216)) + ([[RBF(rbf307494)]] + RBF(rbf296689))) * Periodic(per389942))
+After : (((RBF(rbf612550) + Periodic(per295216)) + ([[(((Linear(lin543971) * Periodic(per115041)) + (Linear(lin418797) + RBF(rbf390755))) * ((Periodic(per254079) * Periodic(per824846)) * (RBF(rbf388130) * Linear(lin859925))))]] + RBF(rbf296689))) * Periodic(per389942))
+Step 004 | reject | log_alpha=-53.203
+Sever path: LR
+Before: (((RBF(rbf612550) + Periodic(per295216)) + [[(RBF(rbf307494) + RBF(rbf296689))]]) * Periodic(per389942))
+After : (((RBF(rbf612550) + Periodic(per295216)) + [[(((White(wn916317) + Linear(lin465396)) + (Periodic(per803464) * Linear(lin14303))) + (RBF(rbf752164) + RBF(rbf515592)))]]) * Periodic(per389942))
+Step 005 | reject | log_alpha=-43.576
+Sever path: LLR
+Before: (((RBF(rbf612550) + [[Periodic(per295216)]]) + (RBF(rbf307494) + RBF(rbf296689))) * Periodic(per389942))
+After : (((RBF(rbf612550) + [[(RBF(rbf452485) + ((RBF(rbf176541) + RBF(rbf447826)) * (RBF(rbf434208) + White(wn132363))))]]) + (RBF(rbf307494) + RBF(rbf296689))) * Periodic(per389942))
+Step 006 | reject | log_alpha=-316.056
+Sever path: LR
+Before: (((RBF(rbf612550) + Periodic(per295216)) + [[(RBF(rbf307494) + RBF(rbf296689))]]) * Periodic(per389942))
+After : (((RBF(rbf612550) + Periodic(per295216)) + [[(Linear(lin410298) * (Linear(lin584850) * Periodic(per963057)))]]) * Periodic(per389942))
+Step 007 | reject | log_alpha=-61.925
+Sever path: LRR
+Before: (((RBF(rbf612550) + Periodic(per295216)) + (RBF(rbf307494) + [[RBF(rbf296689)]])) * Periodic(per389942))
+After : (((RBF(rbf612550) + Periodic(per295216)) + (RBF(rbf307494) + [[(RBF(rbf726273) * ((RBF(rbf380498) + White(wn22570)) + RBF(rbf665766)))]])) * Periodic(per389942))
+Step 008 | reject | log_alpha=-22.298
+Sever path: LR
+Before: (((RBF(rbf612550) + Periodic(per295216)) + [[(RBF(rbf307494) + RBF(rbf296689))]]) * Periodic(per389942))
+After : (((RBF(rbf612550) + Periodic(per295216)) + [[(Periodic(per813303) + ((Periodic(per573661) + White(wn777765)) * (RBF(rbf170302) + White(wn899226))))]]) * Periodic(per389942))
+Step 009 | reject | log_alpha=-26.690
+Sever path: LLL
+Before: ((([[RBF(rbf612550)]] + Periodic(per295216)) + (RBF(rbf307494) + RBF(rbf296689))) * Periodic(per389942))
+After : ((([[(((RBF(rbf947288) * RBF(rbf238614)) + (RBF(rbf846980) + White(wn141685))) + RBF(rbf856422))]] + Periodic(per295216)) + (RBF(rbf307494) + RBF(rbf296689))) * Periodic(per389942))
+Step 010 | reject | log_alpha=-44.921
+Sever path: LRR
+Before: (((RBF(rbf612550) + Periodic(per295216)) + (RBF(rbf307494) + [[RBF(rbf296689)]])) * Periodic(per389942))
+After : (((RBF(rbf612550) + Periodic(per295216)) + (RBF(rbf307494) + [[(((White(wn149393) * Linear(lin678647)) * (Periodic(per899114) * RBF(rbf994407))) * ((RBF(rbf643507) + Periodic(per209541)) * RBF(rbf276278)))]])) * Periodic(per389942))
+Step 011 | reject | log_alpha=-22.282
+Sever path: LLR
+Before: (((RBF(rbf612550) + [[Periodic(per295216)]]) + (RBF(rbf307494) + RBF(rbf296689))) * Periodic(per389942))
+After : (((RBF(rbf612550) + [[(White(wn442649) * RBF(rbf175927))]]) + (RBF(rbf307494) + RBF(rbf296689))) * Periodic(per389942))
+Step 012 | accept | log_alpha=1.540
+Sever path: LRL
+Before: (((RBF(rbf612550) + Periodic(per295216)) + ([[RBF(rbf307494)]] + RBF(rbf296689))) * Periodic(per389942))
+After : (((RBF(rbf612550) + Periodic(per295216)) + ([[Periodic(per963813)]] + RBF(rbf296689))) * Periodic(per389942))
+Step 013 | reject | log_alpha=-118.957
+Sever path: root
+Before: [[(((RBF(rbf612550) + Periodic(per295216)) + (Periodic(per963813) + RBF(rbf296689))) * Periodic(per389942))]]
+After : [[(Linear(lin925568) + White(wn451146))]]
+Step 014 | reject | log_alpha=-16.500
+Sever path: root
+Before: [[(((RBF(rbf612550) + Periodic(per295216)) + (Periodic(per963813) + RBF(rbf296689))) * Periodic(per389942))]]
+After : [[((RBF(rbf869769) * Periodic(per441181)) + (RBF(rbf27283) * (Periodic(per277789) * Linear(lin580410))))]]
+Round 2/5 | accept_rate=0.133 | best_rmse=0.1164 | grammar=GrammarParams(base_weights={'rbf': 0.4205, 'per': 0.3625, 'lin': 0.09799999999999999, 'wn': 0.11899999999999998}, p_sum=0.41719999999999996, p_prod=0.28279999999999994)
+Init: RBF(rbf902293)
+Step 000 | reject | log_alpha=-123.288
+Sever path: root
+Before: [[RBF(rbf902293)]]
+After : [[Periodic(per249646)]]
+Step 001 | accept | log_alpha=-0.000
+Sever path: root
+Before: [[RBF(rbf902293)]]
+After : [[RBF(rbf784023)]]
+Step 002 | accept | log_alpha=16.067
+Sever path: root
+Before: [[RBF(rbf784023)]]
+After : [[(White(wn377652) + ((RBF(rbf179759) + White(wn266877)) + (RBF(rbf212204) * RBF(rbf702928))))]]
+Step 003 | accept | log_alpha=90.714
+Sever path: L
+Before: ([[White(wn377652)]] + ((RBF(rbf179759) + White(wn266877)) + (RBF(rbf212204) * RBF(rbf702928))))
+After : ([[Periodic(per771283)]] + ((RBF(rbf179759) + White(wn266877)) + (RBF(rbf212204) * RBF(rbf702928))))
+Step 004 | reject | log_alpha=-28.569
+Sever path: RLL
+Before: (Periodic(per771283) + (([[RBF(rbf179759)]] + White(wn266877)) + (RBF(rbf212204) * RBF(rbf702928))))
+After : (Periodic(per771283) + (([[White(wn831947)]] + White(wn266877)) + (RBF(rbf212204) * RBF(rbf702928))))
+Step 005 | reject | log_alpha=-102.675
+Sever path: L
+Before: ([[Periodic(per771283)]] + ((RBF(rbf179759) + White(wn266877)) + (RBF(rbf212204) * RBF(rbf702928))))
+After : ([[((White(wn568486) * RBF(rbf96097)) * White(wn186391))]] + ((RBF(rbf179759) + White(wn266877)) + (RBF(rbf212204) * RBF(rbf702928))))
+Step 006 | reject | log_alpha=-16.892
+Sever path: R
+Before: (Periodic(per771283) + [[((RBF(rbf179759) + White(wn266877)) + (RBF(rbf212204) * RBF(rbf702928)))]])
+After : (Periodic(per771283) + [[(RBF(rbf874595) + (White(wn134902) + Periodic(per587564)))]])
+Step 007 | reject | log_alpha=-22.929
+Sever path: RR
+Before: (Periodic(per771283) + ((RBF(rbf179759) + White(wn266877)) + [[(RBF(rbf212204) * RBF(rbf702928))]]))
+After : (Periodic(per771283) + ((RBF(rbf179759) + White(wn266877)) + [[(RBF(rbf216137) * ((RBF(rbf184864) * Periodic(per575412)) + (Periodic(per518765) + Periodic(per4198))))]]))
+Step 008 | reject | log_alpha=-43.375
+Sever path: L
+Before: ([[Periodic(per771283)]] + ((RBF(rbf179759) + White(wn266877)) + (RBF(rbf212204) * RBF(rbf702928))))
+After : ([[(((RBF(rbf537687) + RBF(rbf236477)) + Periodic(per869191)) + ((Periodic(per899930) + Periodic(per59604)) + (White(wn563929) + Periodic(per615166))))]] + ((RBF(rbf179759) + White(wn266877)) + (RBF(rbf212204) * RBF(rbf702928))))
+Step 009 | reject | log_alpha=-20.221
+Sever path: RLR
+Before: (Periodic(per771283) + ((RBF(rbf179759) + [[White(wn266877)]]) + (RBF(rbf212204) * RBF(rbf702928))))
+After : (Periodic(per771283) + ((RBF(rbf179759) + [[(White(wn588956) + (White(wn318615) + (RBF(rbf588851) * Periodic(per821063))))]]) + (RBF(rbf212204) * RBF(rbf702928))))
+Step 010 | accept | log_alpha=4.341
+Sever path: RL
+Before: (Periodic(per771283) + ([[(RBF(rbf179759) + White(wn266877))]] + (RBF(rbf212204) * RBF(rbf702928))))
+After : (Periodic(per771283) + ([[Periodic(per57388)]] + (RBF(rbf212204) * RBF(rbf702928))))
+Step 011 | reject | log_alpha=-29.683
+Sever path: L
+Before: ([[Periodic(per771283)]] + (Periodic(per57388) + (RBF(rbf212204) * RBF(rbf702928))))
+After : ([[(((Periodic(per30794) * RBF(rbf380265)) + RBF(rbf509492)) + (White(wn408322) + (RBF(rbf103190) + RBF(rbf14631))))]] + (Periodic(per57388) + (RBF(rbf212204) * RBF(rbf702928))))
+Step 012 | reject | log_alpha=-2.330
+Sever path: R
+Before: (Periodic(per771283) + [[(Periodic(per57388) + (RBF(rbf212204) * RBF(rbf702928)))]])
+After : (Periodic(per771283) + [[RBF(rbf969078)]])
+Step 013 | reject | log_alpha=-48.304
+Sever path: L
+Before: ([[Periodic(per771283)]] + (Periodic(per57388) + (RBF(rbf212204) * RBF(rbf702928))))
+After : ([[(((RBF(rbf60189) + RBF(rbf461142)) * (RBF(rbf714284) * RBF(rbf248696))) + ((RBF(rbf691487) + RBF(rbf750459)) * (RBF(rbf769789) + RBF(rbf618191))))]] + (Periodic(per57388) + (RBF(rbf212204) * RBF(rbf702928))))
+Step 014 | reject | log_alpha=-53.572
+Sever path: root
+Before: [[(Periodic(per771283) + (Periodic(per57388) + (RBF(rbf212204) * RBF(rbf702928))))]]
+After : [[(((Periodic(per336952) + Periodic(per758123)) + (Periodic(per885006) * Periodic(per678952))) * (White(wn655178) + (Periodic(per918517) * Periodic(per508549))))]]
+Round 3/5 | accept_rate=0.267 | best_rmse=0.1164 | grammar=GrammarParams(base_weights={'rbf': 0.4443499999999999, 'per': 0.40374999999999994, 'lin': 0.0686, 'wn': 0.08329999999999999}, p_sum=0.43204, p_prod=0.2679599999999999)
+Init: (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))
+Step 000 | reject | log_alpha=-17.689
+Sever path: RR
+Before: (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * [[(White(wn401201) + RBF(rbf209759))]]))
+After : (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * [[(RBF(rbf843335) * (Periodic(per53433) + (White(wn298766) * Periodic(per468095))))]]))
+Step 001 | reject | log_alpha=-44.452
+Sever path: LLL
+Before: ((([[RBF(rbf230624)]] * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))
+After : ((([[((RBF(rbf759795) + (RBF(rbf389989) + Periodic(per720634))) + (Periodic(per278940) + Periodic(per313932)))]] * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))
+Step 002 | reject | log_alpha=-210.003
+Sever path: root
+Before: [[(((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))]]
+After : [[Periodic(per622263)]]
+Step 003 | reject | log_alpha=-8.855
+Sever path: LLR
+Before: (((RBF(rbf230624) * [[RBF(rbf545749)]]) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))
+After : (((RBF(rbf230624) * [[(Periodic(per851285) * Periodic(per279849))]]) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))
+Step 004 | reject | log_alpha=-33.164
+Sever path: LLR
+Before: (((RBF(rbf230624) * [[RBF(rbf545749)]]) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))
+After : (((RBF(rbf230624) * [[(((RBF(rbf428204) + Periodic(per740663)) * (Linear(lin451174) * RBF(rbf554682))) + RBF(rbf370644))]]) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))
+Step 005 | reject | log_alpha=-57.384
+Sever path: RLL
+Before: (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + (([[RBF(rbf670289)]] + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))
+After : (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + (([[(((RBF(rbf492194) + Periodic(per495301)) * (RBF(rbf487217) + Periodic(per648518))) * ((Periodic(per7127) + White(wn396782)) + (Periodic(per571017) * RBF(rbf230019))))]] + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))
+Step 006 | reject | log_alpha=-25.412
+Sever path: LL
+Before: (([[(RBF(rbf230624) * RBF(rbf545749))]] + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))
+After : (([[(((Periodic(per332482) * RBF(rbf998904)) * (Periodic(per339633) * RBF(rbf679768))) + RBF(rbf480166))]] + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + Periodic(per323403)) * (White(wn401201) + RBF(rbf209759))))
+Step 007 | accept | log_alpha=-0.943
+Sever path: RLR
+Before: (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + [[Periodic(per323403)]]) * (White(wn401201) + RBF(rbf209759))))
+After : (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + [[RBF(rbf574378)]]) * (White(wn401201) + RBF(rbf209759))))
+Step 008 | reject | log_alpha=-46.795
+Sever path: RRL
+Before: (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + RBF(rbf574378)) * ([[White(wn401201)]] + RBF(rbf209759))))
+After : (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + RBF(rbf574378)) * ([[(((RBF(rbf562271) + RBF(rbf897445)) + (Periodic(per707592) + RBF(rbf370013))) + ((Periodic(per434282) + Linear(lin609565)) * RBF(rbf967441)))]] + RBF(rbf209759))))
+Step 009 | reject | log_alpha=-32.350
+Sever path: RL
+Before: (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ([[(RBF(rbf670289) + RBF(rbf574378))]] * (White(wn401201) + RBF(rbf209759))))
+After : (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ([[((RBF(rbf847217) * (Periodic(per327048) + White(wn919645))) + ((RBF(rbf546690) + Periodic(per920906)) + (White(wn868112) + Periodic(per949811))))]] * (White(wn401201) + RBF(rbf209759))))
+Step 010 | reject | log_alpha=-21.848
+Sever path: RL
+Before: (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ([[(RBF(rbf670289) + RBF(rbf574378))]] * (White(wn401201) + RBF(rbf209759))))
+After : (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ([[(White(wn16637) + ((Periodic(per205933) * White(wn959465)) * (RBF(rbf925095) * RBF(rbf581626))))]] * (White(wn401201) + RBF(rbf209759))))
+Step 011 | accept | log_alpha=5.693
+Sever path: RR
+Before: (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + RBF(rbf574378)) * [[(White(wn401201) + RBF(rbf209759))]]))
+After : (((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + RBF(rbf574378)) * [[White(wn126057)]]))
+Step 012 | reject | log_alpha=-6.697
+Sever path: LLL
+Before: ((([[RBF(rbf230624)]] * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + RBF(rbf574378)) * White(wn126057)))
+After : ((([[Periodic(per972566)]] * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + RBF(rbf574378)) * White(wn126057)))
+Step 013 | reject | log_alpha=-10.196
+Sever path: L
+Before: ([[((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488)))]] + ((RBF(rbf670289) + RBF(rbf574378)) * White(wn126057)))
+After : ([[(((Periodic(per435240) + RBF(rbf733667)) + Periodic(per14819)) + (Periodic(per560089) + (RBF(rbf164732) + Periodic(per395627))))]] + ((RBF(rbf670289) + RBF(rbf574378)) * White(wn126057)))
+Step 014 | accept | log_alpha=12.521
+Sever path: root
+Before: [[(((RBF(rbf230624) * RBF(rbf545749)) + (RBF(rbf298347) + Periodic(per216488))) + ((RBF(rbf670289) + RBF(rbf574378)) * White(wn126057)))]]
+After : [[(((RBF(rbf368269) + RBF(rbf516492)) + (Periodic(per54368) + Periodic(per152624))) + (RBF(rbf400624) * Periodic(per582136)))]]
+Round 4/5 | accept_rate=0.200 | best_rmse=0.1164 | grammar=GrammarParams(base_weights={'rbf': 0.5081878571428571, 'per': 0.3511964285714285, 'lin': 0.04801999999999999, 'wn': 0.09259571428571427}, p_sum=0.44942799999999994, p_prod=0.2505719999999999)
+Init: (Periodic(per501480) + Periodic(per116913))
+Step 000 | reject | log_alpha=-4.568
+Sever path: L
+Before: ([[Periodic(per501480)]] + Periodic(per116913))
+After : ([[Periodic(per975405)]] + Periodic(per116913))
+Step 001 | reject | log_alpha=-4.229
+Sever path: L
+Before: ([[Periodic(per501480)]] + Periodic(per116913))
+After : ([[Linear(lin945314)]] + Periodic(per116913))
+Step 002 | accept | log_alpha=80.780
+Sever path: R
+Before: (Periodic(per501480) + [[Periodic(per116913)]])
+After : (Periodic(per501480) + [[Periodic(per773611)]])
+Step 003 | reject | log_alpha=-101.697
+Sever path: R
+Before: (Periodic(per501480) + [[Periodic(per773611)]])
+After : (Periodic(per501480) + [[(((RBF(rbf880094) * RBF(rbf14354)) * RBF(rbf268017)) * (RBF(rbf395006) * (RBF(rbf653864) + RBF(rbf235162))))]])
+Step 004 | accept | log_alpha=3.884
+Sever path: L
+Before: ([[Periodic(per501480)]] + Periodic(per773611))
+After : ([[(((Periodic(per869096) * RBF(rbf212765)) + (RBF(rbf230906) * Periodic(per171828))) + ((RBF(rbf295302) + RBF(rbf876783)) + (RBF(rbf460905) + Periodic(per478770))))]] + Periodic(per773611))
+Step 005 | accept | log_alpha=17.843
+Sever path: root
+Before: [[((((Periodic(per869096) * RBF(rbf212765)) + (RBF(rbf230906) * Periodic(per171828))) + ((RBF(rbf295302) + RBF(rbf876783)) + (RBF(rbf460905) + Periodic(per478770)))) + Periodic(per773611))]]
+After : [[(((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214))) * RBF(rbf304234))]]
+Step 006 | reject | log_alpha=-20.064
+Sever path: LRR
+Before: (((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + [[RBF(rbf451214)]])) * RBF(rbf304234))
+After : (((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + [[(((Periodic(per858521) + RBF(rbf157971)) * (Periodic(per112827) + White(wn454706))) + (RBF(rbf253351) + Periodic(per423191)))]])) * RBF(rbf304234))
+Step 007 | reject | log_alpha=-112.518
+Sever path: root
+Before: [[(((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214))) * RBF(rbf304234))]]
+After : [[(Linear(lin505332) + ((Periodic(per882354) + Periodic(per200804)) + RBF(rbf708695)))]]
+Step 008 | reject | log_alpha=-17.033
+Sever path: R
+Before: (((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214))) * [[RBF(rbf304234)]])
+After : (((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214))) * [[(Periodic(per685489) + ((RBF(rbf998396) + Periodic(per156365)) + (RBF(rbf825884) * White(wn469444))))]])
+Step 009 | reject | log_alpha=-13.755
+Sever path: R
+Before: (((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214))) * [[RBF(rbf304234)]])
+After : (((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214))) * [[((Periodic(per328868) * (Periodic(per304811) + RBF(rbf476896))) + Periodic(per941101))]])
+Step 010 | reject | log_alpha=-21.199
+Sever path: L
+Before: ([[((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214)))]] * RBF(rbf304234))
+After : ([[((Periodic(per832568) * (Periodic(per797360) + Periodic(per744490))) * (Periodic(per621057) + (Periodic(per865823) + Periodic(per374386))))]] * RBF(rbf304234))
+Step 011 | reject | log_alpha=-30.456
+Sever path: R
+Before: (((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214))) * [[RBF(rbf304234)]])
+After : (((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214))) * [[(((RBF(rbf216500) + White(wn767761)) * (White(wn960469) * Periodic(per245197))) + ((Periodic(per558402) + RBF(rbf620455)) + White(wn564994)))]])
+Step 012 | reject | log_alpha=-25.997
+Sever path: LRL
+Before: (((RBF(rbf82798) + Periodic(per749869)) * ([[RBF(rbf717284)]] + RBF(rbf451214))) * RBF(rbf304234))
+After : (((RBF(rbf82798) + Periodic(per749869)) * ([[((RBF(rbf31424) + (RBF(rbf121441) + RBF(rbf886636))) + ((RBF(rbf186888) + Linear(lin167794)) + (White(wn445694) * RBF(rbf357510))))]] + RBF(rbf451214))) * RBF(rbf304234))
+Step 013 | reject | log_alpha=-51.744
+Sever path: R
+Before: (((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214))) * [[RBF(rbf304234)]])
+After : (((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214))) * [[RBF(rbf72848)]])
+Step 014 | accept | log_alpha=20.944
+Sever path: L
+Before: ([[((RBF(rbf82798) + Periodic(per749869)) * (RBF(rbf717284) + RBF(rbf451214)))]] * RBF(rbf304234))
+After : ([[(((Periodic(per430921) + White(wn654510)) + RBF(rbf713731)) + RBF(rbf843527))]] * RBF(rbf304234))
+Round 5/5 | accept_rate=0.267 | best_rmse=0.0619 | grammar=GrammarParams(base_weights={'rbf': 0.5837314999999998, 'per': 0.3058375, 'lin': 0.03361399999999999, 'wn': 0.07681699999999998}, p_sum=0.4300995999999999, p_prod=0.26990039999999993)
