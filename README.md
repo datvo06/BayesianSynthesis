@@ -20,4 +20,8 @@ python visualize_log_run.py
 
 4. Get results similar to below.
 
-![results](assets/round_03_mutation.gif)
+![results](assets/log_run_viz/round_03_mutation.gif)
+
+5. Documentations
+- Checkout the original paper for the most detailed and complete explanation: [Bayesian Synthesis of Probabilistic Programs for Automatic Data Modeling](https://arxiv.org/abs/1907.06249)
+- Checkout [my blog](https://datvo06.github.io/blog/2026/bayesian-synthesis/) for the trimmed down version of it.
