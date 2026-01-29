@@ -20,6 +20,8 @@ python visualize_log_run.py
 
 4. Get results similar to below.
 
+The score is `log_alpha` of a MH acceptance, larger is better.
+
 ![results](assets/log_run_viz/round_03_mutation.gif)
 
 5. Documentations
